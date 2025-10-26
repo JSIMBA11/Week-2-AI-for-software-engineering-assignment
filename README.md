@@ -39,3 +39,19 @@ Our solution uses **Random Forest Regression** to:
 ### Prerequisites
 ```bash
 pip install -r requirements.txt
+
+
+To Run the Complete Project:
+Setup:
+
+bash
+chmod +x setup.sh
+./setup.sh
+Run the main script:
+
+bash
+python climate_emissions_predictor.py
+Run the Jupyter notebook:
+
+bash
+jupyter notebook climate_analysis.ipynb
